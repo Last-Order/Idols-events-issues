@@ -1,2 +1,2 @@
 # Idols-events-issues
-Idols Events Issue Tracking
+Idols Events is not an open-source software. This repository is for issue tracking only.
